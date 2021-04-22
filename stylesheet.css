@@ -1,0 +1,197 @@
+body {
+    background-color: #23272a;
+}
+
+.top-wrapper {
+    background-color: black;
+    background-image: url('http://www.bu.edu/files/2019/09/grizzly-bear-mother-cubs-iStock-1064136288.jpg');
+    opacity: 0.7;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 100PX;
+}
+
+.container {
+    color: black;
+}
+
+.header-list li {
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+
+.header-list li:hover {
+    background-color: #abfe01;
+    color: white;
+}
+
+.header-list a {
+    color: green;
+}
+
+.header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 0PX 40px;
+}
+
+.header {
+    background-color: greenyellow;
+    height: 90px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    opacity: 0.85;
+    width: 100%;
+}
+
+.wildlife {
+    font-family: Copperplate;
+    color: greenyellow;
+    font-size: 140px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.wildlife2 {
+    font-family: Copperplate;
+    color: White;
+    font-size: 80px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.need p {
+    font-family: Copperplate;
+    color: white;
+    text-shadow: 2px 2px black;
+    width: 500px;
+    align: center;
+    padding-left: 520px;
+    padding-top: 150px;
+    font-size: 25px;
+}
+
+.top-wrapper h1 {
+    opacity: 0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+
+.top-wrapper p {
+    opacity: 0.7;
+    margin-bottom: 3px;
+}
+
+.header-right a {
+    line-height: 65px;
+    padding: 0 25px;
+    color: white;
+    display: block;
+    float: left;
+    transition: all 0.5s;
+}
+
+.lesson {
+    padding: 2px;
+    float: left;
+    width: 24%;
+}
+
+.lesson-icon img {
+    width: 100%;
+}
+
+.lesson-icon p {
+    position: absolute;
+    top: 44%;
+    width: 50%;
+    color: greenyellow;
+}
+
+.text-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 15px;
+    color: white;
+}
+
+.main h1 {
+    text-align: center;
+    color: greenyellow;
+}
+
+.name {
+    color: greenyellow;
+}
+
+.lesson2 {
+    padding: 2px;
+    float: left;
+    width: 24%;
+}
+
+.lesson-icon2 img {
+    width: 100%;
+}
+
+.lesson-icon2 p {
+    position: absolute;
+    top: 44%;
+    width: 50%;
+    color: greenyellow;
+}
+
+.text-contents2 {
+    width: 80%;
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 15px;
+    color: white;
+}
+
+.TOPIC2 h1 {
+    text-align: center;
+    color: greenyellow;
+}
+
+.name2 {
+    color: greenyellow;
+}
+
+footer {
+    float: left;
+    color: green;
+    height: 200px;
+    background-color: greenyellow;
+    width: 100%;
+    font-size: large;
+    opacity: 0.6;
+}
+
+.footer-logo {
+    float: left;
+    background-repeat: no-repeat;
+}
+
+a span {
+    color: yellowgreen;
+    background-color: green;
+    height: 90px;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}
+
+.footer-list {
+    margin-left: 1250px;
+    padding-top: 30px;
+    line-height: 40px;
+    list-style: none;
+}
